@@ -1,6 +1,6 @@
 package com.example.parqueadero.controller;
 
-import com.example.parqueadero.DTO.TransaccionDTO;
+//import com.example.parqueadero.DTO.TransaccionDTO;
 import com.example.parqueadero.entity.Transaccion;
 import com.example.parqueadero.service.TransaccionService;
 import com.example.parqueadero.utilities.Constans;
